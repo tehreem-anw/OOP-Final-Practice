@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+Coding in C++ is highly efficient.
+Object oriented programming allows for clean design.
+File handling keeps your data persistent.
