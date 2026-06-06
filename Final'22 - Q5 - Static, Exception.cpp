@@ -62,12 +62,3 @@ int main(){
 	}
 	return 0;
 }
-
-//string name;
-	//		int mode;
-	//		cout<<"Enter file name: ";
-	//		cin>>name;
-	//		cout<<"Select mode: Write(1) Read(2)."<<endl;
-	//		cin>>mode;
-	//		if(mode == 1){
-	//			ofstream out()
